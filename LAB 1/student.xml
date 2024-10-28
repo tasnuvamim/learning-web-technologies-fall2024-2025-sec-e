@@ -1,0 +1,35 @@
+<students>
+
+<student id = "1">
+<name>John Carter</name>
+<addmission>
+<admission_date>25</admission_date>
+<admission_month>12</admission_month>
+<admission_year>2015</admission_year>
+</addmission>
+</student>
+
+<student id = "1">
+<name>Bob Marshal</name>
+<addmission>
+<admission_date>13</admission_date>
+<admission_month>01</admission_month>
+<admission_year>1999</admission_year>
+</addmission>
+</student>
+
+<student id = "1">
+<name>Clark Kent</name>
+<addmission>
+<admission_date>17</admission_date>
+<admission_month>06</admission_month>
+<admission_year>2005</admission_year>
+</addmission>
+</student>
+
+</students>
+
+        
+        
+        
+        
